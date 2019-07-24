@@ -1,0 +1,49 @@
+body {
+  background-color: Rosybrown;
+}
+
+.wrap {
+    width:980px;
+    margin:0 auto;
+}
+
+body { margin:0; padding:0; }
+
+#KARTS {
+    height:140px;
+    margin-bottom:15px;
+    background-color:lavenderblush;
+    color: black;
+    text-align: center;
+    font-family: OCR A Std, monospace;
+}
+
+.content{
+    width:690px;
+    height:600px;
+    background-color:lavenderblush;
+    float:right;
+}
+
+.sidebar {
+    width:275px;
+    height:600px;
+    background-color:lavenderblush;
+    float:left;
+}
+
+.footer {
+    height:70px;
+    margin-top:200px;
+    background-color:lavenderblush;
+}
+
+.clear {
+    clear:both;
+}
+
+#Girls{
+  position: absolute;
+right: 226px;
+bottom: -32px;
+}
